@@ -25,7 +25,7 @@
         <shade-plugin.version>3.2.1</shade-plugin.version>
         <maven-surefire-plugin.version>2.22.1</maven-surefire-plugin.version>
         <junit.version>4.13</junit.version>
-        <vertx.version>3.8.5</vertx.version>
+        <vertx.version>3.9.4</vertx.version>
 
     </properties>
 
